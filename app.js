@@ -124,3 +124,6 @@ app.delete('/api/photos/:id', (request, response) => {
 app.listen(3000, () => {
     console.log('Express server is running ....');
 })
+
+
+//
